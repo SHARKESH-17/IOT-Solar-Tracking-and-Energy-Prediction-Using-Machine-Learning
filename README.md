@@ -3,7 +3,7 @@ A smart solar tracking project that uses sensors and IoT to follow the sun and i
 
 # ☀️ IoT-Based Solar Tracking System
 
-![Project Banner](images/setup.jpg)
+
 
 ## 📌 Overview
 
@@ -34,7 +34,7 @@ Unlike fixed solar panels, this system dynamically adjusts orientation using sen
 
 ## ⚙️ System Architecture
 
-![Block Diagram](hardware/block_diagram.png)
+<img width="1443" height="811" alt="image" src="https://github.com/user-attachments/assets/9de0a246-e0b8-40bf-8f53-3a9ef8fed857" />
 
 ---
 
@@ -59,8 +59,14 @@ Unlike fixed solar panels, this system dynamically adjusts orientation using sen
 
 ## 📷 Project Demonstration
 
-![Setup](images/setup.jpg)
-![Output](images/output.jpg)
+<img width="489" height="489" alt="image" src="https://github.com/user-attachments/assets/a22d7b8f-dff8-417a-8e17-8bde7179b483" />
+
+<img width="950" height="604" alt="image" src="https://github.com/user-attachments/assets/748e7dff-2e75-4953-8e05-c69cf6711eaa" />
+
+<img width="1036" height="540" alt="image" src="https://github.com/user-attachments/assets/b0fa275c-50f1-4357-9c59-8d22076d0acc" />
+
+
+
 
 ---
 
