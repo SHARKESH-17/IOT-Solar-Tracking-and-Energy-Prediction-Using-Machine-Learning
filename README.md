@@ -65,6 +65,7 @@ Unlike fixed solar panels, this system dynamically adjusts orientation using sen
 
 <img width="1036" height="540" alt="image" src="https://github.com/user-attachments/assets/b0fa275c-50f1-4357-9c59-8d22076d0acc" />
 
+<img width="700" height="757" alt="image" src="https://github.com/user-attachments/assets/46785ed9-933a-41a8-88b6-494b1e4add84" />
 
 
 
@@ -77,6 +78,15 @@ Unlike fixed solar panels, this system dynamically adjusts orientation using sen
 * Servo Motor
 * LCD Display
 * Power Supply
+
+---
+
+---
+
+## 🤖 Hardware Simulation
+
+<img width="892" height="821" alt="image" src="https://github.com/user-attachments/assets/2a9d68c6-7c1b-458a-81bd-d667a01d2a33" />
+
 
 ---
 
