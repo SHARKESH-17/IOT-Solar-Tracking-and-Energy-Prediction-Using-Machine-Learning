@@ -80,7 +80,15 @@ Unlike fixed solar panels, this system dynamically adjusts orientation using sen
 * Power Supply
 
 ---
+## “How to Run” Section
 
+## ▶️ How to Run
+
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Run the application:
+   python app/app.py
 ---
 
 ## 🤖 Hardware Simulation
