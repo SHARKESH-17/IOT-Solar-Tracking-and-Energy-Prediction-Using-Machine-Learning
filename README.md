@@ -3,7 +3,7 @@ A smart solar tracking project that uses sensors and IoT to follow the sun and i
 
 # ☀️ IoT-Based Solar Tracking System
 
-
+An IoT-based solar tracking and energy prediction system that uses real-time sensor data and machine learning to improve solar panel efficiency.
 
 ## 📌 Overview
 
