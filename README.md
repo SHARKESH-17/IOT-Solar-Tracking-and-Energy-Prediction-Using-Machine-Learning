@@ -91,7 +91,17 @@ Unlike fixed solar panels, this system dynamically adjusts orientation using sen
    python app/app.py
 ---
 
+## ▶️ Execution Flow
+
+Run the files in the following order:
+
+1. app.py
+2. simulate_iot.py
+3. ml_prepare_data.py
+4. ml_train.py
 ## 🤖 Hardware Simulation
+
+---
 
 <img width="892" height="821" alt="image" src="https://github.com/user-attachments/assets/2a9d68c6-7c1b-458a-81bd-d667a01d2a33" />
 
