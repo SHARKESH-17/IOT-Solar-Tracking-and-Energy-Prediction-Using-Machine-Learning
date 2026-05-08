@@ -132,6 +132,27 @@ This project is licensed under the MIT License.
 
 ---
 
+## 👨‍💻 Team Members
+
+### Sharkesh J
+- Backend development
+- Machine learning implementation
+
+### Sheik Abdullah J
+- Hardware setup
+- Sensor integration
+
+### Sree Sharan K P
+- Hardware setup
+- Testing and documentation
+
+### Srinath U
+
+
+### Sriram T
+- Frontend/UI support
+- Presentation preparation
+
 ## 👨‍💻 Author
 
 **Sharkesh**
