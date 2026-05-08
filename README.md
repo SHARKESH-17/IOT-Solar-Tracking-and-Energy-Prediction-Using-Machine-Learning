@@ -63,7 +63,8 @@ Unlike fixed solar panels, this system dynamically adjusts orientation using sen
 
 <img width="950" height="604" alt="image" src="https://github.com/user-attachments/assets/748e7dff-2e75-4953-8e05-c69cf6711eaa" />
 
-<img width="1036" height="540" alt="image" src="https://github.com/user-attachments/assets/b0fa275c-50f1-4357-9c59-8d22076d0acc" />
+<img width="1456" height="708" alt="WhatsApp Image 2026-05-08 at 4 40 08 PM" src="https://github.com/user-attachments/assets/2e742bab-3b6c-42c2-a87b-a82f045efe1c" />
+
 
 <img width="700" height="757" alt="image" src="https://github.com/user-attachments/assets/46785ed9-933a-41a8-88b6-494b1e4add84" />
 
