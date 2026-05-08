@@ -1,1 +1,0 @@
-Run order: app.py -> simulate_iot.py -> ml_prepare_data.py -> ml_train.py
