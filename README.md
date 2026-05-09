@@ -72,7 +72,7 @@ Unlike fixed solar panels, this system dynamically adjusts orientation using sen
 
 ---
 
-## 🔌 Hardware Components
+## 🔌 Hardware Components.
 
 * ESP32 / Arduino
 * LDR Sensors
