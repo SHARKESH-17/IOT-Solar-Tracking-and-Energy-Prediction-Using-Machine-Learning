@@ -151,9 +151,6 @@ This project is licensed under the MIT License.
 - Hardware setup
 - Testing and documentation
 
-### Srinath U
-
-
 ### Sriram T
 - Frontend/UI support
 - Presentation preparation
