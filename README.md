@@ -59,7 +59,7 @@ Unlike fixed solar panels, this system dynamically adjusts orientation using sen
 
 ## 📷 Project Demonstration
 
-<img width="489" height="489" alt="image" src="https://github.com/user-attachments/assets/a22d7b8f-dff8-417a-8e17-8bde7179b483" />
+
 
 
 
@@ -71,7 +71,7 @@ Unlike fixed solar panels, this system dynamically adjusts orientation using sen
 
 
 
-<img width="700" height="757" alt="image" src="https://github.com/user-attachments/assets/46785ed9-933a-41a8-88b6-494b1e4add84" />
+
 
 
 
